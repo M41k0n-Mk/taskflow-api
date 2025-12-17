@@ -1,19 +1,22 @@
-# TaskFlow API
+# TaskFlow API 🚀
 
 [![Status](https://img.shields.io/badge/status-development-yellow)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-brightgreen)]()
+[![Java](https://img.shields.io/badge/Java-21-blue)]()
 
-**Uma plataforma de gerenciamento de tarefas e fluxos de trabalho colaborativos com integração de inteligência artificial para análise de produtividade.**
+> Uma plataforma de **gerenciamento de tarefas e fluxos de trabalho colaborativos** com integração de inteligência artificial para análise de produtividade.
 
 ## 🎯 Objetivo
 
-Demonstrar capacidades em:
-- ✅ APIs REST seguindo os bons princípios do mercado
-- ✅ OpenAPI 3.0 + Swagger para documentação
-- ✅ Segurança com JWT, OAuth2, Rate Limiting e CORS
-- ✅ Performance com Redis, tunning JVM e profiling
-- ✅ Integração assíncrona com RabbitMQ
-- ✅ Versionamento de API (v1/v2)
+Demonstrar capacidades profissionais em:
+
+- ✅ **APIs REST** seguindo boas práticas e padrões atuais
+- ✅ **Versionamento** (v1/v2) e **OpenAPI 3.0 + Swagger**
+- ✅ **Segurança** com JWT, OAuth2, Rate Limiting e CORS
+- ✅ **Performance** com Redis, JVM Tuning e Profiling com async-profiler
+- ✅ **Integração** com RabbitMQ, SQS, AWS Lambda
+- ✅ **Arquitetura** escalável com padrões modernos (DDD, Clean Code)
 
 ## 🏗️ Stack Técnico
 
